@@ -1,0 +1,5 @@
+in this sample we 
+terraform command 
+to print secrete 
+
+#terraform output <secret_value>
